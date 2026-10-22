@@ -1,0 +1,10 @@
+# ReconX output may contain sensitive information
+output/
+*.log
+*.tmp
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

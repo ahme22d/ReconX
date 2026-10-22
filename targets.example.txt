@@ -1,0 +1,4 @@
+# Replace with systems you are authorized to test.
+# One hostname or IP address per line.
+example.com
+192.0.2.10
